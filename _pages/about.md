@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/ 
 header:
-  image: "/images/pattern_bg.png"
+  image: "/images/universe.jpg"
 --- 
 
 I'm an experienced product development engineer transitioning into a new career as a Data Analyst. 

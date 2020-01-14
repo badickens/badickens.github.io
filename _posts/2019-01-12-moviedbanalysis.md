@@ -52,7 +52,7 @@ Here's some inline code `x+y`.
 
 Here's how to add an image: 
 Using HTML: 
-<img src="{{ sit.url }}{{ site.baseurl }}/images/guinea_1.png" alt="guinea pig dwg">
+<img src="{{ site.url }}{{ site.baseurl }}/images/guinea_1.png" alt="guinea pig dwg">
 
 Here's some equations:
 
