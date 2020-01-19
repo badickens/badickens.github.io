@@ -6,7 +6,7 @@ header:
   image: "/images/pattern_bg.png" 
 excerpt: "Data Analysis, Exploring a Dataset"
 ---
-{% include myprojects/investigate-movie-db-analysis.html %}
+<h2>Here is my post</h2>
 
 
 
