@@ -8,7 +8,7 @@ excerpt: "Data Analysis, Exploring a Dataset"
 ---
 <h2>Here is my post</h2>
 
-See [this link]({{ site.baseurl }}/_pages/myprojects/investigate-movie-db-analysis.html)
+See [this link]({% link _pages/myprojects/investigate-movie-db-analysis.html %})
 for a detailed look of the analysis done using a Jupyter Notebook.
 
 
