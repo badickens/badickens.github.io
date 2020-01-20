@@ -8,7 +8,7 @@ excerpt: "Data Analysis, Exploring a Dataset"
 ---
 <h2>Here is my post</h2>
 
-See <a href="/pages/myprojects/investigate-movie-db-analysis.html", target="_blank">this link</a>
+See [this link](/pages/myprojects/investigate-movie-db-analysis.html)
 for a detailed look of the analysis done using a Jupyter Notebook.
 
 
